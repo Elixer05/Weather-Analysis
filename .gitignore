@@ -1,4 +1,6 @@
 .venv/
 archive.zip
 state.db
-*.csv
+GlobalWeatherRepository*.csv
+__pycache__/
+.ipynb_checkpoints/
