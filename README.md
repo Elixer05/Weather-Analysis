@@ -27,7 +27,7 @@ pollution exposure.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 Weather-Analysis/
 │
 ├── weather.ipynb                 # Main analysis notebook
@@ -39,7 +39,7 @@ Weather-Analysis/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** [Global Weather Repository — Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code)
 - **Size:** 142,289 rows, 40+ features
@@ -49,7 +49,7 @@ Weather-Analysis/
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### 1. Exploratory Data Analysis
 - Identified 257 unique cities with daily weather and air quality readings
@@ -162,7 +162,7 @@ no Python required
 
 ---
 
-## 🛠️ Libraries Used
+##  Libraries Used
 
 | Library | Purpose |
 |---|---|
@@ -177,7 +177,7 @@ no Python required
 
 ---
 
-## 👤 Author
+##  Author
 
 **Ankita Kundu**
 B.Tech Information Technology — Institute of Engineering and Management, Kolkata
@@ -185,7 +185,7 @@ B.Tech Information Technology — Institute of Engineering and Management, Kolka
 
 ---
 
-## 📎 Submission Note
+##  Submission Note
 
 This project was completed as part of the PM Accelerator
 Data Science Technical Assessment, 2026.
