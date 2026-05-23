@@ -28,6 +28,7 @@ pollution exposure.
 ---
 
 ##  Repository Structure
+```
 Weather-Analysis/
 │
 ├── weather.ipynb                 # Main analysis notebook
@@ -36,7 +37,7 @@ Weather-Analysis/
 ├── requirements.txt              # Python dependencies
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ##  Dataset
